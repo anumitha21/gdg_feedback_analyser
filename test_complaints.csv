@@ -1,0 +1,6 @@
+id,complaint,status
+1,"The product was broken when it arrived and customer service was unhelpful",open
+2,"Delivery was extremely late and the packaging was damaged",resolved
+3,"Website is confusing and checkout process failed multiple times",pending
+4,"Poor quality product that doesn't match the description",open
+5,"Excellent service and fast delivery! Highly recommend",closed

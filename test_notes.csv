@@ -1,0 +1,6 @@
+case_id,notes,priority
+C001,"Customer called about billing issue, needs immediate attention",high
+C002,"Product return request, customer not satisfied with quality",medium
+C003,"Great experience with the support team, very helpful",low
+C004,"Website bug reported, checkout button not working",high
+C005,"Complaint about delivery delays and poor packaging",medium
